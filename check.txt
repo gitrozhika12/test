@@ -1,0 +1,2 @@
+# phone|password|2fa_secret
+1234567890|example_password|JBSWY3DPEHPK3PXP
